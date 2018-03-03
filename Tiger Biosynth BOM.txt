@@ -1,0 +1,7 @@
+1 pcs IC CD4093/HEF4093 Quad 2-Input NAND Schmitt Trigger https://is.gd/ZxMKd5
+1 pcs Capacitor 100nF https://is.gd/c40XyK
+1 pcs 3V CR2032 battery socket https://is.gd/VEe8nw
+1 pcs 3V CR2032 battery https://is.gd/tjz6ZL
+1 pcs LED 3mm/5mm any color https://is.gd/VfDbyd
+1 pcs buzzer https://is.gd/7Bew8E
+1 pcs PCB Biosynth
