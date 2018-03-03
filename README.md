@@ -3,7 +3,7 @@ A simple circuit based on CD4093 that sensitive to MOISTURE and organic matter t
 The circuit react to the resistance and convert it to lights and sounds using the oscillator function of NAND gate in CD4093. 
 The sensor is designed as a part of the circuit, located in the tail and leg of the tiger shaped circuit.
 
-![alt text](https://github.com/squaresolid/tiger_biosynth/blob/master/Tiger-with-Parts-Placement.pdf)
+![alt text](https://github.com/squaresolid/tiger_biosynth/blob/master/Tiger%20Biosynth%20PCB%20Front%20View.jpg)
 
 Tiger biosynth is developed by Squaresolid (Andreas Siagian), Lifepatch - citizen initiative in art, science and technology
 Developed through various circuit from SGMK (Swiss Mechatronic Art Society) and Hackteria.
