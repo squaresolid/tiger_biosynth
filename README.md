@@ -11,8 +11,8 @@ Developed through various circuit from SGMK (Swiss Mechatronic Art Society) and 
 ![alt text](https://github.com/squaresolid/tiger_biosynth/blob/master/Tiger%20Biosynth%20Circuit.jpg?raw=true)
 
 http://andreassiagian.wordpress.com
-http://lifepatch.org
+http://lifepatch.id
 http://mechatronicart.ch
 http://hackteria.org
 
-Documentation as a modul kit for workshop can be seen in: http://lifepatch.org/Biosynth
+Documentation as a modul kit for workshop can be seen in: http://lifepatch.id/Biosynth
